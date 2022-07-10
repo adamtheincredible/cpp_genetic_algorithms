@@ -11,4 +11,6 @@ This library does not work with the technologies listed below:
 ## Features
 * Data normalization functions (sigmoid, relu, etc..)
 * Heavily dynamic (thanks to OOP)
-* No need for 
+* No need for extra libraries, as it is not reliant on 3rd party c++ libs.
+* Support for JSON saving/loading.
+* Open source (duh) and open to changes.
