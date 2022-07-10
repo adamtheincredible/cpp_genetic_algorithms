@@ -2,4 +2,13 @@
 A (hopefully) lightweight (enough) library for easy use of genetic algorithms in c++
 
 ## Compatibality
-Note: **this library does NOT work with c, as it is heavily reliant on OOP**
+This library does not work with the technologies listed below:
+* C:
+  * Because it does not support lambda functions or classes.
+* C++98:
+  * Because it does not support lambda functions.
+
+## Features
+* Data normalization functions (sigmoid, relu, etc..)
+* Heavily dynamic (thanks to OOP)
+* No need for 
